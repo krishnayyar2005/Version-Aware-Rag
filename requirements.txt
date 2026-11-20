@@ -3,4 +3,4 @@ python-dotenv
 requests
 pyyaml
 fastembed
-
+google-genai
